@@ -1,3 +1,4 @@
+#dawg i searched the whole stakeoverflow for the right one, damn you bozo
 from linear_regression_model import *
 def make_input_fn(data_df,label_df,num_epochs=10,shuffle=True,batch_size=32):
   def input_function():#inner function, this will be returned
